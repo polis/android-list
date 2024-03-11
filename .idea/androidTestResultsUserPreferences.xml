@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidTestResultsUserPreferences">
+    <option name="androidTestResultsTableState">
+      <map>
+        <entry key="-1221366223">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Beaty_Xiaomi_Note_10s_API_30" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1042747843">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Beaty_Xiaomi_Note_10s_API_30" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1240221155">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Android_7" value="120" />
+                  <entry key="Beaty_Xiaomi_Note_10s_API_30" value="236" />
+                  <entry key="Duration" value="207" />
+                  <entry key="Tests" value="476" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1574198094">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Android_7" value="120" />
+                  <entry key="Beaty_Xiaomi_Note_10s_API_30" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
