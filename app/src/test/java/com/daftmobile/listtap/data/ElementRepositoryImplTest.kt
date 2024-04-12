@@ -4,7 +4,6 @@ import com.daftmobile.listtap.MainDispatcherRule
 import com.daftmobile.listtap.data.model.Element
 import junit.framework.TestCase.assertEquals
 import kotlinx.coroutines.ExperimentalCoroutinesApi
-import kotlinx.coroutines.test.advanceUntilIdle
 import kotlinx.coroutines.test.runTest
 import org.junit.Rule
 import org.junit.Test
@@ -18,13 +17,12 @@ class ElementRepositoryImplTest {
     @Test
     fun testGetRandomElement() = runTest {
 
-        val elementRepository = ElementRepositoryImpl()
+        val elementRepository = ElementRepositoryImpl(defaultDispatcher = mainDispatcherRule.testDispatcher)
 
         val numberOfTestElements = 10
         val elements = mutableListOf<Element>()
         for (i in 1..numberOfTestElements) {
             elements.add(elementRepository.getRandomElement())
-            advanceUntilIdle()
         }
         assertEquals(numberOfTestElements, elements.size)
         for (i in 0 until numberOfTestElements) {

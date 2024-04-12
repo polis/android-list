@@ -5,7 +5,6 @@ import androidx.lifecycle.viewModelScope
 import com.daftmobile.listtap.data.ElementRepository
 import com.daftmobile.listtap.data.model.Element
 import com.daftmobile.listtap.presentation.Action
-import com.daftmobile.listtap.presentation.maincontent.model.UiState
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow

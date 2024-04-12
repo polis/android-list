@@ -28,8 +28,6 @@ class MainContentViewModelTest {
     private val element3 = Element(3, ElementColor.BLUE)
     private val element4 = Element(4, ElementColor.RED)
 
-
-
     @get:Rule
     val mainDispatcherRule = MainDispatcherRule()
 

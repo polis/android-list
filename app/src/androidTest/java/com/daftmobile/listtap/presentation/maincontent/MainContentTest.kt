@@ -15,7 +15,6 @@ import org.junit.Test
 class MainContentTest {
     @get:Rule
     val composeTestRule = createAndroidComposeRule<MainActivity>()
-
     @Test
     fun startStopActionTest() {
 

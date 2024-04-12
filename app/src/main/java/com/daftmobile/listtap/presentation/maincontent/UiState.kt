@@ -1,4 +1,4 @@
-package com.daftmobile.listtap.presentation.maincontent.model
+package com.daftmobile.listtap.presentation.maincontent
 
 import androidx.compose.runtime.Stable
 import com.daftmobile.listtap.data.model.Element
