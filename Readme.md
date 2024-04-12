@@ -1,4 +1,5 @@
-# DaftMobile
+# It's a test project implemented for hiring team and unfortunatelly was not reviewd.
+#DI was not used here becasue by requrements I do not allowed to change gradle plugin section. 
 
 ## Android: List Tap!
 
