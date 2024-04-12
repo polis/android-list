@@ -1,4 +1,4 @@
-# DaftMobile
+# It's a test project implemented for hiring team and unfortunatelly was not reviewd.
 
 ## Android: List Tap!
 
